@@ -1,5 +1,5 @@
 """
-Misión "Monitoreo de Pulso"
+Misión: "Monitoreo de Pulso"
 Objetivo: Usar while.
 Crea un programa que pida el pulso del paciente. Mientras el pulso sea menor a 60, debe imprimir "Advertencia: Pulso bajo. 
 Incrementando dosis..." y sumar 5 al pulso actual hasta llegar a 60. Al final, imprimir "Pulso estabilizado".
